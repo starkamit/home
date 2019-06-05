@@ -4,11 +4,9 @@ title:  "Golden orb weaver"
 subheadline:  "banana spider"
 teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>."
 categories:
-    - design
+    - spider
 tags:
-    - design
-    - background color
-    - header
+    - spider
 image:
    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 header:
